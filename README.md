@@ -1,2 +1,2 @@
-# PSS
-Plane stress simulator softwatre
+# PSS - Plane stress simulator softwatre
+
