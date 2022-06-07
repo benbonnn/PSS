@@ -1,14 +1,14 @@
 # PSS - Plane stress simulator softwatre
 Simulate plane stress analysis of a steel specimen using linear elastic theory.
 
-main.py
+> main.py
 Controlls, Gui and execusion order
 
-stressmodel.py
+> stressmodel.py
 FE procedure, visualisation and reporting
 
-mainWindow.ui
+> mainWindow.ui
 User interface Gui using QT
 
-geom.png
+> geom.png
 Geometry of the specimen
