@@ -1,11 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on 2022 - 05 - 24
-
-Assignment Final
-
-Name : Benjamin Bondsman
-  id : be8101bo-s 
+Benjamin Bondsman
 """
 
 # Import necessary packages
