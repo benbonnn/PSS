@@ -13,4 +13,4 @@ User interface Gui using QT
 > geom.png --
 Geometry of the specimen
 
-![plot](./qtInterface.PNG.png)
+![plot](qtInterface.PNG)
