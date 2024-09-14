@@ -1,4 +1,4 @@
-# PSS - Plane stress simulator softwatre
+# PSS - Plane stress simulator softwatre VSMN20
 Simulate plane stress analysis of a steel specimen using linear elastic theory.
 
 > main.py --
